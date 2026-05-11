@@ -68,7 +68,7 @@ Software Engineering student focused on building highly optimized, lightweight s
 <td width="50%">
 
 ### ⚡ ScoutSearch Engine
-**[View Project](YOUR_SCOUTSEARCH_LINK_HERE)**
+**[View Project](https://ali00922-scoutsearch.hf.space/)**
 
 *High-Performance Search Algorithm*
 
@@ -80,7 +80,7 @@ Natural language querying over multidimensional datasets (19,000+ profiles) achi
 <td width="50%">
 
 ### 🧠 EmojiMood CNN
-**[View Project](YOUR_EMOJIMOOD_LINK_HERE)**
+**[View Project](https://emoji-weex.onrender.com/)**
 
 *Edge-Optimized Emotion Detection*
 
@@ -94,7 +94,7 @@ Facial emotion recognition system compressed down by 75% for live web environmen
 <td width="50%">
 
 ### ⏱️ TaskMate AI
-**[View Project](YOUR_TASKMATE_LINK_HERE)**
+**[View Project](https://takymasky.netlify.app/)**
 
 *Autonomous Productivity Web App*
 
