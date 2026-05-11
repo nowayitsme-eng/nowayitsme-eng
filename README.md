@@ -31,3 +31,113 @@ const Ali_Abdullah = {
   currentFocus : ["Custom Data Structures (Tries, Hash Maps)", "High-Performance APIs"],
   contact      : "aliabdullah7836@gmail.com",
 };
+```
+
+Software Engineering student focused on building highly optimized, lightweight systems. Instead of relying on monolithic frameworks, I prefer writing strict, custom algorithmic layers—like deploying search engines with custom Sharded Inverted Indices or compressing ML models down to sub-10MB TF-Lite files for rapid UX.
+
+---
+
+## < /> Tech Stack
+
+**[ Artificial Intelligence & Data ]**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00F0FF&border=00F0FF)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-0D1117?style=flat-square&logo=openai&logoColor=00F0FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F0FF)
+
+**[ Languages & Logic ]**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41)
+
+**[ Frameworks & Delivery ]**
+
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=white)
+
+---
+
+## < /> Featured Architectures
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ ScoutSearch Engine
+**[View Project](YOUR_SCOUTSEARCH_LINK_HERE)**
+
+*High-Performance Search Algorithm*
+
+Natural language querying over multidimensional datasets (19,000+ profiles) achieving millisecond latency.
+- Custom Sharded Inverted Index & O(1) Forward Index
+- Built with Python/Flask & Vanilla JS
+
+</td>
+<td width="50%">
+
+### 🧠 EmojiMood CNN
+**[View Project](YOUR_EMOJIMOOD_LINK_HERE)**
+
+*Edge-Optimized Emotion Detection*
+
+Facial emotion recognition system compressed down by 75% for live web environments.
+- 8.4MB TF-Lite file running 120ms inference
+- Containerized via Docker & Render
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⏱️ TaskMate AI
+**[View Project](YOUR_TASKMATE_LINK_HERE)**
+
+*Autonomous Productivity Web App*
+
+Full-stack manager integrating LLMs for real-time generative capabilities.
+- DeepSeek AI integrated code generation
+- Firebase Auth & syncing
+
+</td>
+<td width="50%">
+
+### 📁 Pinned Repositories
+
+Browse my GitHub pins below for the raw source code of my latest optimized builds and experimental architectures.
+
+[![GitHub](https://img.shields.io/badge/View_Pinned_Source-00FF41?style=flat-square&logo=github&logoColor=black)](https://github.com/nowayitsme-eng)
+
+</td>
+</tr>
+</table>
+
+---
+
+## < /> Telemetry Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nowayitsme-eng&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=a9adc1&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nowayitsme-eng&background=0D1117&ring=00FF41&fire=00F0FF&currStreakNum=00FF41&sideNums=a9adc1&hide_border=true" height="150" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## < /> Open Ports (Connect)
+
+<div align="center">
+
+| [![Email](https://img.icons8.com/nolan/64/1A6DFF/C822FF/email.png)](mailto:aliabdullah7836@gmail.com) | [![LinkedIn](https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png)](https://www.linkedin.com/in/ali-abdullah-a0061a341) | [![Portfolio](https://img.icons8.com/nolan/64/1A6DFF/C822FF/domain.png)](https://ali-abdullah.netlify.app) |
+|:---:|:---:|:---:|
+| **Ping Console** | **LinkedIn** | **Portfolio** |
+
+</div>
+
+<div align="center">
+  <sub>> EOF. System online and tracking algorithms.</sub>
+</div>
