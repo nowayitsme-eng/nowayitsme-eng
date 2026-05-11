@@ -120,7 +120,7 @@ Browse my GitHub pins below for the raw source code of my latest optimized build
 ## < /> Telemetry Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowayitsme-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=a9adc1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nowayitsme-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=a9adc1" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowayitsme-eng&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=a9adc1" height="150" alt="GitHub Streak" />
 </div>
 
